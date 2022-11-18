@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>PHP Dasar</title>
+<title>PHP Dasar </title>
 </head>
 <body>
 <h2>Form Input</h2>
