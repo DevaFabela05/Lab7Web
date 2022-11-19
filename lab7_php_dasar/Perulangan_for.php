@@ -7,4 +7,3 @@ echo "Perulangan Menurun dari 10 ke 1 <br />";
 for ($i=10; $i>=1; $i--) {
  echo "Perulangan ke: " . $i . '<br />';
 }
-?>

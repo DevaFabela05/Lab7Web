@@ -12,5 +12,4 @@ switch ($nama_hari) {
         break;
     default:
         echo "Sabtu";
-    }
-   ?>
+}

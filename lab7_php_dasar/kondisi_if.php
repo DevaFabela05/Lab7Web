@@ -7,4 +7,3 @@ if ($nama_hari == "Sunday") {
 } else {
  echo "Selasa";
 }
-?>
